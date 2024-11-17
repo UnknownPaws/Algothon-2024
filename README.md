@@ -1,5 +1,5 @@
 # IC Algothon 2024
-## The Competition
+## [The Competition](https://www.algosoc.com/algothon)
 Every 19 minutes &ndash;for 25&ndash; hours a password for an updated time series (given as an encrypted pandas dataframe) of multiple stratiegies applied to a given unnamed future is provided. Every release of new data provdes more time in the time series and a new strategy. The goal was to make a submission every 19 minutes to find the best portfolio (how much of the portfolio should be held as a long or short position in each strategy). The consraints were such that no position could be more than 10% of portfolio.
 ## The Strategies
 ### Sectioned Mean
